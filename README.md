@@ -5,4 +5,4 @@ This repository contains the usage of ARwayKitSDK v2.0 to create an indoor navig
 
 --> NOTE: The apps will only work in VIT Chennai A-block boys hostel.
 
---> Refer this link for my ARway unity files: https://drive.google.com/file/d/15jckgmkLGHC0_HNTXuMjcEBJZxA9n3ug/view?usp=share_link
+--> Refer this link for my ARway unity files: https://drive.google.com/file/d/15jckgmkLGHC0_HNTXuMjcEBJZxA9n3ug/view?usp=share_link.
